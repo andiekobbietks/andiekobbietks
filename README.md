@@ -16,6 +16,13 @@ around agent CLIs, and running the cloud infrastructure they sit on.
   Text-to-Speech and Speech Recognition over HTTP. Free tier, no sign-up.
 - **[my-oracle-cloud-workspace](https://github.com/andiekobbietks/my-oracle-cloud-workspace)**
   — custom OCI management environment, no hourly limits.
+- **[edge-llm-benchmark-vivobook](https://github.com/andiekobbietks/edge-llm-benchmark-vivobook)**
+  — real-world edge LLM inference benchmark: LFM2.5-1.2B on a 2021 8GB
+  laptop (i5-1135G7, Iris Xe). CPU beats integrated GPU 2.7x; 40.96 tok/s
+  with OpenVINO int4 on CPU. Reproducible, with figures and upstream issue.
+- **[edge-llm-benchmark-vivobook-it](https://github.com/andiekobbietks/edge-llm-benchmark-vivobook-it)**
+  — Italian version of the benchmark handbook (15 pages, print/Kindle),
+  written for public divulgation. I also write and document in Italian.
 
 ## How I work
 
@@ -36,3 +43,5 @@ where the learning shows; the tooling since then is above.
 [X](https://twitter.com/andiekobbie) ·
 [Linktree](https://linktr.ee/andiekobbie) ·
 FirstGens UK (Community Board Advisor)
+
+Languages: English, Italian (technical writing and documentation).
