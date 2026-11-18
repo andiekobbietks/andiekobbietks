@@ -73,8 +73,22 @@ I bring together hands-on IT operations, infrastructure support, software develo
 ## Education & learning
 
 - **BSc (Hons) Information Communication Technology** — University of South Wales.
+
+  My degree included a progressive, three-year sequence of computer networking modules:
+
+  | UK undergraduate level | Module | What the level represents |
+  | --- | --- | --- |
+  | **Level 4** | Computer Systems and Network Technologies | First-year undergraduate study. Built the foundations in computer systems and networking concepts. |
+  | **Level 5** | Applied Computer Networking | Second-year undergraduate study. Developed the ability to apply networking knowledge to practical networking scenarios. |
+  | **Level 6** | Advanced Applied Computer Networking | Final-year honours-level study. Progressed to more advanced application and analysis of computer networking. |
+
+  For readers outside the UK, Levels 4, 5 and 6 refer to the stages of study within my UK bachelor's degree: broadly, first, second and final year. They are not separate certifications or three separate degrees.
+
+- **Cisco Networking Academy (NetAcad)** — accessed through university-provided NetAcad login credentials and course enrolments throughout my studies, with enrolment continuing year on year. I completed the NetAcad CCNA v7 learning materials available at the time, including the associated Packet Tracer labs. The completed lab work and supporting evidence are available upon request. This was completion of learning materials and practical labs, **not a Cisco CCNA certification or a claim that I passed the CCNA certification exam**.
+
+  I am currently continuing my CCNA studies independently, building on that foundation through ongoing hands-on Packet Tracer practice and further networking labs.
+
 - **AWS re/Start** — cloud computing and practical AWS foundations.
-- **Cisco Networking Academy (NetAcad)** — completed NetAcad coursework during my BSc ICT studies at the University of South Wales, alongside degree modules in computer systems and network technologies and applied computer networking. This records coursework completion, **not a Cisco CCNA certification**.
 - Continuing to develop across cloud architecture, automation, secure software delivery and AI engineering.
 
 ## Beyond the terminal
