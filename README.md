@@ -17,9 +17,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg" />
-  <img alt="Animated GitHub contribution graph" src="./assets/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andiekobbietks/andiekobbietks/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andiekobbietks/andiekobbietks/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated GitHub contribution graph" src="https://raw.githubusercontent.com/andiekobbietks/andiekobbietks/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 ---
@@ -37,7 +37,7 @@ I bring together hands-on IT operations, infrastructure support, software develo
 | Project | What it explores |
 | --- | --- |
 | **[AgentSON](https://github.com/andiekobbietks/AgentSON)** | An open interchange format and tooling for agent-session data, interoperability and governance. |
-| **[AKCloud](https://github.com/andiekobbietks)** | Sovereign-minded cloud and infrastructure patterns, automation and practical platform operations. |
+| **[AKCloud](https://github.com/andiekobbietks/akcloud-site)** | Sovereign-minded cloud and infrastructure patterns, automation and practical platform operations. |
 | **[Edge LLM Benchmark](https://github.com/andiekobbietks/edge-llm-benchmark-vivobook)** | Reproducible local inference testing on constrained, everyday hardware, including CPU/GPU comparisons. |
 | **[Abena AI API](https://github.com/andiekobbietks/abena-ai-api)** | African-language speech technology exposed through a simple HTTP API. |
 | **[Taskmaster Productivity Suite](https://github.com/andiekobbietks/taskmaster-pro-ultimate-todo-productivity-suite)** | A serverless productivity application built with Cloudflare Workers, Hono and SQLite Durable Objects. |
