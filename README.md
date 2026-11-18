@@ -1,47 +1,91 @@
-# Andie Kobbie
+<!--
+  Andie Kobbie | GitHub profile
+  Motion is kept in self-contained SVG assets because GitHub sanitises scripts
+  and does not execute JavaScript in profile READMEs.
+-->
 
-I work in **agentic AI tooling and DevSecOps**: building the software layer
-around agent CLIs, and running the cloud infrastructure they sit on.
+<div align="center">
 
-## Currently building
+<img src="./assets/typing.svg" alt="Andie Kobbie: IT practitioner and product-minded engineer building agentic AI tooling, DevSecOps workflows, cloud infrastructure and open-source systems." width="100%" />
 
-- **[AgentSON](https://github.com/andiekobbietks/AgentSON)** — an open interchange
-  format for agent sessions, with readers for Claude Code, Chrome DevTools
-  and GitHub Copilot Chat, MCP integration, ADR/SOP governance,
-  GDPR / EU-AI-Act data liberation. 30+ merged PRs, releases to v0.2.0.
-- **[taskmaster-pro-ultimate-todo-productivity-suite](https://github.com/andiekobbietks/taskmaster-pro-ultimate-todo-productivity-suite)**
-  — todo & productivity suite on Cloudflare Workers + Hono + SQLite
-  Durable Objects.
-- **[abena-ai-api](https://github.com/andiekobbietks/abena-ai-api)** — African-language
-  Text-to-Speech and Speech Recognition over HTTP. Free tier, no sign-up.
-- **[my-oracle-cloud-workspace](https://github.com/andiekobbietks/my-oracle-cloud-workspace)**
-  — custom OCI management environment, no hourly limits.
-- **[edge-llm-benchmark-vivobook](https://github.com/andiekobbietks/edge-llm-benchmark-vivobook)**
-  — real-world edge LLM inference benchmark: LFM2.5-1.2B on a 2021 8GB
-  laptop (i5-1135G7, Iris Xe). CPU beats integrated GPU 2.7x; 40.96 tok/s
-  with OpenVINO int4 on CPU. Reproducible, with figures and upstream issue.
-- **[edge-llm-benchmark-vivobook-it](https://github.com/andiekobbietks/edge-llm-benchmark-vivobook-it)**
-  — Italian version of the benchmark handbook (15 pages, print/Kindle),
-  written for public divulgation. I also write and document in Italian.
+<p>
+  <a href="https://uk.linkedin.com/in/andiekobbietks">LinkedIn</a> ·
+  <a href="https://github.com/andiekobbietks?tab=repositories">Repositories</a> ·
+  <a href="https://linktr.ee/andiekobbie">Links</a>
+</p>
 
-## How I work
+</div>
 
-Daily drivers: agent CLIs (**OpenCode**, Cursor, Copilot class), MCP,
-Cloudflare Workers, OCI. I run real changes through review, ADRs and
-release cycles — see the AgentSON history.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg" />
+  <img alt="Animated GitHub contribution graph" src="./assets/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
-## Student origins, on purpose
+---
 
-My earliest repos here are the original student projects — **M25Cobham**
-(JavaScript) and **design-thinking-intro** — plus a PHP CMS era
-(OpenCart / Drupal / Joomla + Docker). I keep them visible because that is
-where the learning shows; the tooling since then is above.
+## About
 
-## Elsewhere
+I'm **Andie Kobbie**, an IT practitioner and product-minded engineer working across **agentic AI, DevSecOps, cloud infrastructure and open-source software**.
 
-[LinkedIn](https://uk.linkedin.com/in/andiekobbietks) ·
-[X](https://twitter.com/andiekobbie) ·
-[Linktree](https://linktr.ee/andiekobbie) ·
-FirstGens UK (Community Board Advisor)
+My focus is the engineering layer that makes modern systems useful and dependable: connecting agent workflows to tools, building practical cloud platforms, improving operational visibility, and making software easier to inspect, govern and run.
 
-Languages: English, Italian (technical writing and documentation).
+I bring together hands-on IT operations, infrastructure support, software development and technical education. I enjoy taking an idea from an early experiment through implementation, documentation, testing and release.
+
+## What I'm building
+
+| Project | What it explores |
+| --- | --- |
+| **[AgentSON](https://github.com/andiekobbietks/AgentSON)** | An open interchange format and tooling for agent-session data, interoperability and governance. |
+| **[AKCloud](https://github.com/andiekobbietks)** | Sovereign-minded cloud and infrastructure patterns, automation and practical platform operations. |
+| **[Edge LLM Benchmark](https://github.com/andiekobbietks/edge-llm-benchmark-vivobook)** | Reproducible local inference testing on constrained, everyday hardware, including CPU/GPU comparisons. |
+| **[Abena AI API](https://github.com/andiekobbietks/abena-ai-api)** | African-language speech technology exposed through a simple HTTP API. |
+| **[Taskmaster Productivity Suite](https://github.com/andiekobbietks/taskmaster-pro-ultimate-todo-productivity-suite)** | A serverless productivity application built with Cloudflare Workers, Hono and SQLite Durable Objects. |
+| **[Product Engineering Lab](https://github.com/andiekobbietks/product-engineering-lab)** | Experiments connecting generative 3D, evidence-led product development and AI-assisted engineering. |
+
+## Open-source & engineering interests
+
+- **Agentic systems:** agent CLIs, MCP, session interoperability, evaluation and governance.
+- **DevSecOps:** secure-by-design workflows, code review, automation, observability and release discipline.
+- **Cloud & infrastructure:** AWS, Azure, Oracle Cloud Infrastructure, Cloudflare and containerised workloads.
+- **Applied AI:** local inference, LLM evaluation, retrieval workflows and practical AI integration.
+- **Product engineering:** turning prototypes into documented, testable and maintainable software.
+
+## Technology toolkit
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![LLM tooling](https://img.shields.io/badge/LLM_tooling-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+## Education & learning
+
+- **BSc (Hons) Information Communication Technology** — University of South Wales.
+- **AWS re/Start** — cloud computing and practical AWS foundations.
+- **Cisco Networking Academy** — completed coursework through university as part of my ICT studies. This is coursework completion, **not a Cisco CCNA certification**.
+- Continuing to develop across cloud architecture, automation, secure software delivery and AI engineering.
+
+## Beyond the terminal
+
+I'm also a drummer and percussionist, STEM Ambassador and community mentor. Through education and community work, I enjoy helping people build confidence with technology and access opportunities in digital careers.
+
+## Find me
+
+- [LinkedIn](https://uk.linkedin.com/in/andiekobbietks)
+- [GitHub repositories](https://github.com/andiekobbietks?tab=repositories)
+- [X](https://twitter.com/andiekobbie)
+- [Linktree](https://linktr.ee/andiekobbie)
+
+<sub>Build thoughtfully. Make it observable. Document the work. Keep learning.</sub>
