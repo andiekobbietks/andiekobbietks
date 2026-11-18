@@ -11,7 +11,7 @@
 <p>
   <a href="https://uk.linkedin.com/in/andiekobbietks">LinkedIn</a> ·
   <a href="https://github.com/andiekobbietks?tab=repositories">Repositories</a> ·
-  <a href="https://linktr.ee/andiekobbie">Links</a>
+  <a href="https://twitter.com/andiekobbie">X</a>
 </p>
 
 </div>
@@ -74,7 +74,7 @@ I bring together hands-on IT operations, infrastructure support, software develo
 
 - **BSc (Hons) Information Communication Technology** — University of South Wales.
 - **AWS re/Start** — cloud computing and practical AWS foundations.
-- **Cisco Networking Academy** — completed coursework through university as part of my ICT studies. This is coursework completion, **not a Cisco CCNA certification**.
+- **Cisco Networking Academy (NetAcad)** — completed university-integrated NetAcad coursework alongside my BSc ICT studies at the University of South Wales, including degree-level study in computer systems and networking and applied computer networking. This records completion of the coursework, **not a Cisco CCNA certification**.
 - Continuing to develop across cloud architecture, automation, secure software delivery and AI engineering.
 
 ## Beyond the terminal
@@ -86,6 +86,5 @@ I'm also a drummer and percussionist, STEM Ambassador and community mentor. Thro
 - [LinkedIn](https://uk.linkedin.com/in/andiekobbietks)
 - [GitHub repositories](https://github.com/andiekobbietks?tab=repositories)
 - [X](https://twitter.com/andiekobbie)
-- [Linktree](https://linktr.ee/andiekobbie)
 
 <sub>Build thoughtfully. Make it observable. Document the work. Keep learning.</sub>
