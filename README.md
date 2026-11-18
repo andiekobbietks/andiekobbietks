@@ -74,7 +74,7 @@ I bring together hands-on IT operations, infrastructure support, software develo
 
 - **BSc (Hons) Information Communication Technology** — University of South Wales.
 - **AWS re/Start** — cloud computing and practical AWS foundations.
-- **Cisco Networking Academy (NetAcad)** — completed university-integrated NetAcad coursework alongside my BSc ICT studies at the University of South Wales, including degree-level study in computer systems and networking and applied computer networking. This records completion of the coursework, **not a Cisco CCNA certification**.
+- **Cisco Networking Academy (NetAcad)** — completed NetAcad coursework during my BSc ICT studies at the University of South Wales, alongside degree modules in computer systems and network technologies and applied computer networking. This records coursework completion, **not a Cisco CCNA certification**.
 - Continuing to develop across cloud architecture, automation, secure software delivery and AI engineering.
 
 ## Beyond the terminal
