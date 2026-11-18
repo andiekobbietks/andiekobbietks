@@ -72,7 +72,7 @@ I bring together hands-on IT operations, infrastructure support, software develo
 
 ## Education & learning
 
-- **BSc (Hons) Information Communication Technology** — University of South Wales.
+- **BSc (Hons) Information Communication Technology** - University of South Wales.
 
   My degree included a progressive, three-year sequence of computer networking modules:
 
@@ -84,16 +84,16 @@ I bring together hands-on IT operations, infrastructure support, software develo
 
   For readers outside the UK, Levels 4, 5 and 6 refer to the stages of study within my UK bachelor's degree: broadly, first, second and final year. They are not separate certifications or three separate degrees.
 
-- **Cisco Networking Academy (NetAcad)** — accessed through university-provided NetAcad login credentials and course enrolments throughout my studies, with enrolment continuing year on year. I completed the NetAcad CCNA v7 learning materials available at the time, including the associated Packet Tracer labs. The completed lab work and supporting evidence are available upon request. This was completion of learning materials and practical labs, **not a Cisco CCNA certification or a claim that I passed the CCNA certification exam**.
+- **Cisco Networking Academy (NetAcad)** - accessed through university-provided NetAcad login credentials and course enrolments throughout my studies, with enrolment continuing year on year. I completed the NetAcad CCNA v7 learning materials available at the time, including the associated Packet Tracer labs. The completed lab work and supporting evidence are available upon request. This was completion of learning materials and practical labs, **not a Cisco CCNA certification or a claim that I passed the CCNA certification exam**.
 
   I am currently continuing my CCNA studies independently, building on that foundation through ongoing hands-on Packet Tracer practice and further networking labs.
 
-- **AWS re/Start** — cloud computing and practical AWS foundations.
+- **AWS re/Start** - cloud computing and practical AWS foundations.
 - Continuing to develop across cloud architecture, automation, secure software delivery and AI engineering.
 
 ## Beyond the terminal
 
-I'm also a drummer and percussionist, STEM Ambassador and community mentor. Through education and community work, I enjoy helping people build confidence with technology and access opportunities in digital careers.
+I'm also a **semi-professional drummer and percussionist**, with performing experience across rock, jazz, bossa nova and gospel. Alongside music, I'm a STEM Ambassador and community mentor. Through education and community work, I enjoy helping people build confidence with technology and access opportunities in digital careers.
 
 ## Find me
 
