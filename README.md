@@ -26,12 +26,20 @@ My focus is the engineering layer that makes modern systems useful and dependabl
 
 I bring together hands-on IT operations, infrastructure support, software development and technical education. I enjoy taking an idea from an early experiment through implementation, documentation, testing and release.
 
+## Featured platform: AKCloud
+
+**[AKCloud](https://akcloud.netlify.app)** is my sovereign-minded cloud and infrastructure brand, focused on practical platform operations, automation and dependable digital infrastructure.
+
+Built around a distinctive near-black and phosphorescent neon-green identity (`#080808` / `#39FF14`), the project brings together the service proposition and the engineering work behind it.
+
+- **[Visit the AKCloud website](https://akcloud.netlify.app)**
+- **[Explore the website repository](https://github.com/andiekobbietks/akcloud-site)**
+
 ## What I'm building
 
 | Project | What it explores |
 | --- | --- |
 | **[AgentSON](https://github.com/andiekobbietks/AgentSON)** | An open interchange format and tooling for agent-session data, interoperability and governance. |
-| **[AKCloud](https://github.com/andiekobbietks/akcloud-site)** | Sovereign-minded cloud and infrastructure patterns, automation and practical platform operations. |
 | **[Edge LLM Benchmark](https://github.com/andiekobbietks/edge-llm-benchmark-vivobook)** | Reproducible local inference testing on constrained, everyday hardware, including CPU/GPU comparisons. |
 | **[Abena AI API](https://github.com/andiekobbietks/abena-ai-api)** | African-language speech technology exposed through a simple HTTP API. |
 | **[Taskmaster Productivity Suite](https://github.com/andiekobbietks/taskmaster-pro-ultimate-todo-productivity-suite)** | A serverless productivity application built with Cloudflare Workers, Hono and SQLite Durable Objects. |
@@ -50,7 +58,7 @@ I bring together hands-on IT operations, infrastructure support, software develo
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andiekobbietks/andiekobbietks/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andiekobbietks/andiekobbietks/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated contribution trail in Andie's blue and teal palette" src="https://raw.githubusercontent.com/andiekobbietks/andiekobbietks/output/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="Animated contribution trail in AKCloud neon green and dark tones" src="https://raw.githubusercontent.com/andiekobbietks/andiekobbietks/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 ## Technology toolkit
