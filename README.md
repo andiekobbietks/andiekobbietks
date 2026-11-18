@@ -16,12 +16,6 @@
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andiekobbietks/andiekobbietks/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andiekobbietks/andiekobbietks/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated GitHub contribution graph" src="https://raw.githubusercontent.com/andiekobbietks/andiekobbietks/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
 ---
 
 ## About
@@ -50,6 +44,14 @@ I bring together hands-on IT operations, infrastructure support, software develo
 - **Cloud & infrastructure:** AWS, Azure, Oracle Cloud Infrastructure, Cloudflare and containerised workloads.
 - **Applied AI:** local inference, LLM evaluation, retrieval workflows and practical AI integration.
 - **Product engineering:** turning prototypes into documented, testable and maintainable software.
+
+## Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andiekobbietks/andiekobbietks/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andiekobbietks/andiekobbietks/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated contribution trail in Andie's blue and teal palette" src="https://raw.githubusercontent.com/andiekobbietks/andiekobbietks/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 ## Technology toolkit
 
