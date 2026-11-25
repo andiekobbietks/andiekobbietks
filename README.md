@@ -39,6 +39,7 @@ Built around a distinctive near-black and phosphorescent neon-green identity (`#
 
 | Project | What it explores |
 | --- | --- |
+| **[AI Trust Observatory](https://github.com/andiekobbietks/ai-trust-observatory)** | An independent, open-source AI inference supply-chain assurance and observability research framework, inspired by Dragos's canary-based investigation into downstream prompt exposure. Early-stage research into synthetic canaries, inference-route visibility and evidence correlation. |
 | **[AgentSON](https://github.com/andiekobbietks/AgentSON)** | An open interchange format and tooling for agent-session data, interoperability and governance. |
 | **[Edge LLM Benchmark](https://github.com/andiekobbietks/edge-llm-benchmark-vivobook)** | Reproducible local inference testing on constrained, everyday hardware, including CPU/GPU comparisons. |
 | **[Abena AI API](https://github.com/andiekobbietks/abena-ai-api)** | African-language speech technology exposed through a simple HTTP API. |
