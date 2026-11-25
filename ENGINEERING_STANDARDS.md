@@ -126,7 +126,7 @@ Apply controls according to exposure, data sensitivity and operational criticali
 
 ### 5.1 Baseline for maintained repositories
 
-- Never commit real credentials, tokens, private keys, production data or personal data.
+- Never commit real credentials, tokens, private keys, production data, sensitive personal data or personal data without an approved lawful basis. Approved public attribution and professional contact details may be included where appropriate; do not expose private contact details or third-party personal information.
 - Provide safe placeholders in `.env.example`; exclude real local environment files.
 - Keep dependency manifests and lockfiles committed.
 - Review dependency changes and remove unused or unmaintained packages.
