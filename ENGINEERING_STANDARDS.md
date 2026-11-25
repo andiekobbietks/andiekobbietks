@@ -1,16 +1,16 @@
 # Engineering Standards
 ## Andrea Kwabena Technologies / AndieKobbieTech
 
-**Status:** Baseline standard, proposed for adoption across first-party repositories  
+**Status:** Personal GitHub ecosystem baseline  
 **Snapshot date:** 25 November 2026  
 **Owner:** Andie Kobbie  
 **Canonical location:** GitHub profile repository
 
-This document establishes a consistent engineering approach across personal and organisation-owned software projects. It is deliberately additive: it sets defaults for new work and gives existing projects a path to improve without forcing rewrites or erasing sound engineering decisions.
+This document establishes a consistent engineering approach across the user's personal GitHub repositories. It is deliberately additive: it sets defaults for new work and gives existing projects a path to improve without forcing rewrites or erasing sound engineering decisions.
 
 ## 1. Purpose and scope
 
-The standard applies to first-party products, services, libraries, SDKs, infrastructure repositories and maintained internal tools owned or controlled by Andrea Kwabena Technologies / AndieKobbieTech.
+The standard applies to first-party products, services, libraries, SDKs, infrastructure repositories and maintained internal tools in the personal GitHub account `andiekobbietks`.
 
 Classify each repository before applying requirements:
 
@@ -34,7 +34,7 @@ A repository can have more than one class. Record the primary class and any impo
 4. **Protect compatibility.** Preserve public APIs, data formats, URLs, user workflows and integrations unless a deliberate versioned change is approved.
 5. **Make security observable.** Record dependency, build, test and release evidence appropriate to the repository's risk.
 6. **Document reality.** Distinguish implemented, tested, planned, experimental and deprecated capabilities.
-7. **Keep ownership clear.** Organisation-owned systems and sensitive project data remain under the relevant organisation's control.
+7. **Keep ownership clear.** Personal repositories must not imply ownership of upstream projects or third-party work; preserve licences and attribution.
 
 ## 3. Preferred application stack
 
@@ -162,7 +162,7 @@ For eligible maintained repositories:
 
 ### 5.4 Data protection
 
-Use synthetic or anonymised fixtures in tests and demonstrations. Keep sensitive personal, beneficiary, client and operational data in approved organisation-controlled systems. Logs, telemetry, screenshots and AI prompts must not become an accidental secondary data store.
+Use synthetic or anonymised fixtures in tests and demonstrations. Keep sensitive personal, client and operational data out of public repositories and unapproved tools. Logs, telemetry, screenshots and AI prompts must not become an accidental secondary data store.
 
 ## 6. Testing and delivery
 
@@ -232,7 +232,7 @@ Before changing an existing project:
 5. Make the change on a dedicated branch and preserve the previous working path.
 6. Add tests and migration notes; validate backwards compatibility.
 7. Provide a rollback or recovery route.
-8. Update the repository's documentation only where the behaviour or operating instructions actually change.
+8. Update documentation when it records or corrects repository facts, classification, purpose, setup or operating instructions; do not invent capabilities.
 
 An exception is acceptable when it is technically justified. Record the reason in an ADR or the repository README. A project should not adopt Django, React, PostgreSQL, Docker or any other preferred tool if doing so makes that project less reliable or harder to maintain.
 
@@ -249,14 +249,14 @@ Do not label a repository production-ready simply because it has a deployment wo
 
 ## 11. Initial ecosystem audit snapshot
 
-The following figures were gathered on 25 November 2026 from the connected GitHub account and its available code-search index. They are a baseline for follow-up work, not a claim that every repository has been exhaustively inspected.
+The following figures were gathered on 25 November 2026 from the connected personal GitHub account and its available code-search index. They are a baseline for follow-up work, not a claim that every repository has been exhaustively inspected.
 
 ### Access and inventory
 
 - The repository-list operation returned 100 personal-account repository records: 85 public and 15 private.
-- The connected GitHub App exposed one installation, on the personal account `andiekobbietks`.
-- The connected account's organisation-membership lookup returned no organisation memberships.
-- The repository listing did not provide a complete inventory of all code-search results. These 100 records must not be used as the denominator for ecosystem-wide percentages.
+- The personal-account repository listing returned 100 repositories: 85 public and 15 private.
+- All 100 listed repositories were owned by `andiekobbietks`; none were marked archived in this listing.
+- The listing is a verified account inventory for this connection, but technology searches are indexed samples and must not be used to infer complete stack percentages.
 
 ### Indexed technology evidence
 
@@ -283,17 +283,12 @@ Search counts are lower-bound observations from indexed results. They can includ
 
 These existing controls should be retained and used as reference patterns.
 
-### Organisation access gap
-
-The connected integration did not return Getaway AI or other organisation memberships. One public repository was surfaced under Irene Vera Foundation: `Irene-Vera-Foundation/ireneverafoundation-cms-wp`. Its README describes Roots Bedrock / WordPress, so it has not been assumed to be the separate Wagtail project. No organisation-wide audit or changes can be claimed until the relevant organisation repositories are visible through an authorised GitHub connection.
-
 ## 12. Next implementation sequence
 
-1. Complete the organisation access review and build a full repository inventory.
-2. Classify first-party repositories, forks, mirrors, learning projects and archived work.
-3. Select representative first-party repositories for a detailed baseline review.
-4. Apply the maintained-repository baseline to suitable projects in small pull requests.
-5. Pilot the Python + Django + React/TypeScript stack on a genuinely new or suitable application, not by rewriting established products.
-6. Track adoption by repository class, with verified numerator and denominator, and publish updated figures only after inventory completion.
+1. Classify the 100 personal repositories into first-party products, libraries, infrastructure, forks, mirrors, learning projects and legacy work.
+2. Inspect manifests and source trees for each maintained first-party repository; compute stack adoption from verified repository-level evidence.
+3. Apply the maintained-repository baseline to suitable first-party projects in small pull requests.
+4. Pilot Python + Django + React/TypeScript on a genuinely new or suitable application, not by rewriting established products.
+5. Track adoption by repository class, with verified numerator and denominator.
 
 **The target is a coherent engineering ecosystem, not a uniform codebase.** Python, Django and React/TypeScript become the preferred application-development path for new suitable products; existing technologies remain first-class where they serve their projects better.
