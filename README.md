@@ -26,6 +26,19 @@ My focus is the engineering layer that makes modern systems useful and dependabl
 
 I bring together hands-on IT operations, infrastructure support, software development and technical education. I enjoy taking an idea from an early experiment through implementation, documentation, testing and release.
 
+## Product engineering approach
+
+I approach product engineering as an end-to-end discipline, not simply writing code or assembling a prototype. I work from the problem and intended user outcome through:
+
+- **Problem framing:** clarify the user need, constraints, assumptions and what success should look like.
+- **Systems thinking:** shape the architecture, interfaces, data flows and operational model around the wider product.
+- **Build and integration:** use appropriate tools and automation to turn ideas into working software and connected services.
+- **Validation:** test behaviour, usability, reliability and security; distinguish demonstrated capabilities from planned work.
+- **Delivery and iteration:** document decisions, review changes, make releases traceable and improve the product from evidence.
+
+My interest is in the connective tissue between product, software, infrastructure and operations: building things that are not only demonstrable, but understandable, maintainable and useful.
+
+
 ## Featured platform: AKCloud
 
 **[AKCloud](https://akcloud.netlify.app)** is my sovereign-minded cloud and infrastructure brand, focused on practical platform operations, automation and dependable digital infrastructure.
