@@ -39,14 +39,14 @@ I approach product engineering as an end-to-end discipline, not simply writing c
 My interest is in the connective tissue between product, software, infrastructure and operations: building things that are not only demonstrable, but understandable, maintainable and useful.
 
 
-## Featured platform: AKCloud
+## Featured service identity: AKTOps
 
-**[AKCloud](https://akcloud.netlify.app)** is my sovereign-minded cloud and infrastructure brand, focused on practical platform operations, automation and dependable digital infrastructure.
+**AKTOps** is my IT operations, cloud infrastructure and DevSecOps service identity under Andrea Kwabena Technologies. It brings together practical platform operations, automation, infrastructure support and dependable digital services.
 
 Built around a distinctive near-black and phosphorescent neon-green identity (`#080808` / `#39FF14`), the project brings together the service proposition and the engineering work behind it.
 
-- **[Visit the AKCloud website](https://akcloud.netlify.app)**
-- **[Explore the website repository](https://github.com/andiekobbietks/akcloud-site)**
+- **[Visit the existing website deployment](https://akcloud.netlify.app)** (legacy AKCloud URL; domain and site branding will be updated separately)
+- **[Explore the website repository](https://github.com/andiekobbietks/akcloud-site)** (repository name retained for now; rebrand planned)
 
 ## What I'm building
 
@@ -74,7 +74,7 @@ I use projects to investigate practical engineering questions: where existing sy
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andiekobbietks/andiekobbietks/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andiekobbietks/andiekobbietks/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated contribution trail in AKCloud neon green and dark tones" src="https://raw.githubusercontent.com/andiekobbietks/andiekobbietks/output/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="Animated contribution trail in AKTOps neon green and dark tones" src="https://raw.githubusercontent.com/andiekobbietks/andiekobbietks/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 ## Technology toolkit
