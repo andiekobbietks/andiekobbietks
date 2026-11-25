@@ -50,14 +50,16 @@ Built around a distinctive near-black and phosphorescent neon-green identity (`#
 
 ## What I'm building
 
-| Project | What it explores |
-| --- | --- |
-| **[AI Trust Observatory](https://github.com/andiekobbietks/ai-trust-observatory)** | An independent, open-source AI inference supply-chain assurance and observability research framework, inspired by Dragos's canary-based investigation into downstream prompt exposure. Early-stage research into synthetic canaries, inference-route visibility and evidence correlation. |
-| **[AgentSON](https://github.com/andiekobbietks/AgentSON)** | An open interchange format and tooling for agent-session data, interoperability and governance. |
-| **[Edge LLM Benchmark](https://github.com/andiekobbietks/edge-llm-benchmark-vivobook)** | Reproducible local inference testing on constrained, everyday hardware, including CPU/GPU comparisons. |
-| **[Abena AI API](https://github.com/andiekobbietks/abena-ai-api)** | African-language speech technology exposed through a simple HTTP API. |
-| **[Taskmaster Productivity Suite](https://github.com/andiekobbietks/taskmaster-pro-ultimate-todo-productivity-suite)** | A serverless productivity application built with Cloudflare Workers, Hono and SQLite Durable Objects. |
-| **[Product Engineering Lab](https://github.com/andiekobbietks/product-engineering-lab)** | Experiments connecting generative 3D, evidence-led product development and AI-assisted engineering. |
+I use projects to investigate practical engineering questions: where existing systems fall short, what could work differently, and how an idea can be turned into something testable. The descriptions below explain the problem behind each project and the question it is designed to answer.
+
+| Project | Problem or curiosity | What the project explores |
+| --- | --- | --- |
+| **[AI Trust Observatory](https://github.com/andiekobbietks/ai-trust-observatory)** | Dragos's canary-based investigation raised a difficult question: when prompts pass through AI providers, routers and downstream services, can organisations see where their data goes and test the assurances they are given? | An independent, open-source AI inference supply-chain assurance and observability research framework. It explores synthetic canaries, inference-route visibility and evidence correlation. Inspired by Dragos's published research; independently developed and not affiliated with or endorsed by Dragos. |
+| **[AgentSON](https://github.com/andiekobbietks/AgentSON)** | Agent sessions and their histories can become fragmented across tools and runtimes. How can session data be preserved, inspected and exchanged without losing context or provenance? | An open interchange format and tooling for structured agent-session data, interoperability and governance. |
+| **[Edge LLM Benchmark](https://github.com/andiekobbietks/edge-llm-benchmark-vivobook)** | Does useful local AI inference always require a powerful GPU or expensive hardware? What can an everyday, memory-constrained laptop realistically run? | Reproducible local inference experiments on constrained hardware, comparing execution paths and documenting performance, compatibility and limitations, including CPU and integrated-GPU testing. |
+| **[Abena AI API](https://github.com/andiekobbietks/abena-ai-api)** | How can developers build with African-language speech technology if useful capabilities are difficult to access or integrate into their own applications? | An HTTP API that makes African-language speech technology easier to experiment with and integrate into applications. |
+| **[Taskmaster Productivity Suite](https://github.com/andiekobbietks/taskmaster-pro-ultimate-todo-productivity-suite)** | Can a practical productivity application be built on lightweight serverless infrastructure without depending on a conventional always-on application server? | A serverless application exploring Cloudflare Workers, Hono and SQLite Durable Objects for application logic and persistent state. |
+| **[Product Engineering Lab](https://github.com/andiekobbietks/product-engineering-lab)** | How do you move beyond a compelling technical demo and develop an idea into something that can be evaluated, improved and delivered as a product? | Experiments connecting generative 3D, AI-assisted engineering and evidence-led product development, with an emphasis on turning exploration into testable outcomes. |
 
 ## Open-source & engineering interests
 
