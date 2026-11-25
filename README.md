@@ -69,6 +69,10 @@ I use projects to investigate practical engineering questions: where existing sy
 - **Applied AI:** local inference, LLM evaluation, retrieval workflows and practical AI integration.
 - **Product engineering:** turning prototypes into documented, testable and maintainable software.
 
+## Engineering standards
+
+The preferred application stack, security baseline, repository classifications and incremental adoption policy are documented in the [Engineering Standards](./ENGINEERING_STANDARDS.md). These standards are additive: existing projects retain their architecture unless a measured, reviewed change justifies otherwise.
+
 ## Contribution activity
 
 <picture>
