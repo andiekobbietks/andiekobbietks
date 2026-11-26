@@ -39,6 +39,25 @@ I approach product engineering as an end-to-end discipline, not simply writing c
 My interest is in the connective tissue between product, software, infrastructure and operations: building things that are not only demonstrable, but understandable, maintainable and useful.
 
 
+## Engineering philosophy & practice
+
+I believe in **capability over dependency, evidence over assertion, and portability over lock-in**.
+
+Through **Andrea Kwabena Technologies**, I am developing an AI-augmented engineering approach that brings together software engineering, DevSecOps, cloud infrastructure, AI agent interoperability and evidence-led technical decision-making.
+
+The **[Engineering Playbook](https://github.com/andiekobbietks/engineering-playbook)** is the living reference for this approach. It documents:
+
+- **Software engineering:** GitHub Flow, branching strategy, pull-request governance and code review.
+- **AI-augmented development:** responsible AI-assisted implementation, verification and human accountability.
+- **DevSecOps:** CI/CD, automated quality checks, security and engineering governance.
+- **Architecture and reliability:** architecture decision records, portability, resilience, release management and maintainability.
+- **Engineering research:** learning from established engineering organisations, open-source projects and documented industry practice.
+
+The playbook is an evolving engineering reference, not a claim that every practice has already been adopted across every project.
+
+**Guiding principle:** Don't start from scratch. Start from what humanity has already learned, and build what comes next.
+
+
 ## Featured service identity: AKTOps
 
 **AKTOps** is my IT operations, cloud infrastructure and DevSecOps service identity under Andrea Kwabena Technologies. It brings together practical platform operations, automation, infrastructure support and dependable digital services.
